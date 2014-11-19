@@ -3,18 +3,14 @@ Pan-t
 
 #Kitchen
 
-Cake Pan is a tool that help you to bake cake.
-
-Pan-t aims to provide a way that when you cook a cake; you will only need to bake it with this pan.
-
-Nothing else.
+A Cake Pan is a tool that help you to bake cake.
 
 
 #Manual
 
-How to use it:
+How to use:
 
- * Build you database
+ * Build your database
  * Bake
  * Nothing else
  
